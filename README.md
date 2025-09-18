@@ -11,7 +11,7 @@ Este projeto contém as páginas institucionais da **Tellcon Business**, **Tellc
 ## 🔧 Instalação local
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/tellcon-landing-pages.git
+git clone https://github.com/CTellini/tellcon-landing-pages.git
 
 # Acesse a pasta
 cd tellcon-landing-pages
