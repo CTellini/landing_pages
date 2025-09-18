@@ -1,0 +1,26 @@
+tellcon-landing-pages/
+├── components/
+│   ├── Header.jsx
+│   ├── Hero.jsx
+│   ├── Timeline.jsx
+│   ├── DivisionCard.jsx
+│   ├── ComparisonTable.jsx
+│   ├── CasesSection.jsx
+│   ├── FAQ.jsx
+│   ├── TypebotWidget.jsx
+│   └── Footer.jsx
+├── pages/
+│   ├── index.jsx        (Tellcon Business)
+│   ├── systems.jsx      (Tellcon Systems)
+│   └── digital.jsx      (Tellcon Digital)
+├── public/
+│   ├── logo-tellcon.svg
+│   ├── logo-systems.svg
+│   ├── logo-digital.svg
+│   └── images/...
+├── styles/
+│   └── globals.css
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
